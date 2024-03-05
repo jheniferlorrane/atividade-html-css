@@ -1,2 +1,1 @@
-# atividade-html-css
-Atividade de PI
+# Atividades de HTML e CSS de PI
